@@ -7,5 +7,6 @@ public class PhoneCheck {
         phone.setYear(10);
         System.out.println(phone.toString());
         System.out.println("Is your phone obsolete: "+phone.isObsolete());
+
     }
 }
