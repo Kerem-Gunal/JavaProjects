@@ -40,5 +40,6 @@ public class Dog {
     public String toString(){
         String result = Integer.toString(age);
         return "Dogs name :"+name+", Dogs age : "+age+", Dogs breed: "+breed+", Dogs color: "+color;
+
     }
 }
