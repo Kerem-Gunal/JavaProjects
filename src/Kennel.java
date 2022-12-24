@@ -21,5 +21,6 @@ public class Kennel {
         System.out.println(dog.getColor());
 
         System.out.println("\n"+dog.toString());
+
     }
 }
