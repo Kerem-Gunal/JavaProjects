@@ -1,5 +1,6 @@
 public class PhoneCheck {
     public static void main(String[] args) {
+        //kod
         Phone phone = new Phone();
         phone.setBrand("Samsung");
         phone.setModel("Note 3");
